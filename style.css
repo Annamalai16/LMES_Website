@@ -437,9 +437,22 @@ a:focus {
   text-align: center;
 }
 
+.heading{
+  margin-bottom: 100px;
+}
+
 .left-inner{
-  width: 30vw;
+  width: 43vw;
   align-items: center;
+}
+
+.left-inner1{
+  width: 50vw;
+  padding-right: 5vw;
+}
+
+.right-inner1{
+  width: 50%;
 }
 
 .logo{
@@ -458,6 +471,15 @@ a:focus {
   
   .left-inner{
     width: 90vw;
+  }
+
+  .right-inner1 {
+    width: 90vw;
+  }
+  
+  .left-inner1{
+    width: 90vw;
+    padding: 0;
   }
 }
 
